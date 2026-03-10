@@ -1,0 +1,7392 @@
+{
+  "COCO_val2014_000000000764.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "no_interaction a/an frisbee"
+      ],
+      "wrong_choices": [
+        "look at a/an frisbee",
+        "block a/an frisbee",
+        "throw a/an frisbee"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "throw a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "hold a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000001960.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an sports ball",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "block a/an sports ball",
+        "kick a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000002867.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an backpack",
+        "look at a/an skis",
+        "ski on a/an skis"
+      ],
+      "wrong_choices": [
+        "hold a/an backpack"
+      ]
+    }
+  },
+  "COCO_val2014_000000002890.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "hold a/an skis"
+      ],
+      "wrong_choices": [
+        "carry a/an person",
+        "ride a/an skis"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "carry a/an person",
+        "ski on a/an skis"
+      ],
+      "wrong_choices": [
+        "tag a/an person",
+        "carry a/an skis"
+      ]
+    },
+    "QA_2": {
+      "gt_choices": [
+        "no_interaction with a/an skis"
+      ],
+      "wrong_choices": [
+        "stand on a/an skis",
+        "carry a/an person",
+        "wear a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000005001.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut with a/an scissors",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "hold a/an person",
+        "look at a/an scissors"
+      ]
+    }
+  },
+  "COCO_val2014_000000008065.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit with a/an baseball bat",
+        "hold a/an baseball bat",
+        "look at a/an sports ball",
+        "wield a/an baseball bat"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000010216.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an sports ball",
+        "hit a/an sports ball",
+        "swing a/an tennis racket"
+      ],
+      "wrong_choices": [
+        "look at a/an tennis racket"
+      ]
+    }
+  },
+  "COCO_val2014_000000011699.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an backpack",
+        "carry a/an suitcase"
+      ],
+      "wrong_choices": [
+        "pick up a/an suitcase",
+        "board a/an train"
+      ]
+    }
+  },
+  "COCO_val2014_000000012047.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit a/an sports ball",
+        "look at a/an sports ball",
+        "swing a/an baseball bat",
+        "wield a/an baseball bat"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000012081.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee",
+        "no interaction with a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000012552.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an baseball bat",
+        "wield a/an baseball bat",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "wear a/an baseball glove"
+      ]
+    }
+  },
+  "COCO_val2014_000000012744.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "hold a/an person"
+      ],
+      "wrong_choices": [
+        "walk a/an motorcycle",
+        "hold a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000013081.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "sit on a/an chair",
+        "read a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000015846.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "throw a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000015908.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "jump a/an skateboard",
+        "hold a/an skateboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "look at a/an skateboard",
+        "grind a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000019275.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "eat with a/an fork",
+        "lick a/an fork"
+      ],
+      "wrong_choices": [
+        "look at a/an cake",
+        "stick a/an fork"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "eat with a/an fork",
+        "eat a/an cake",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "lift a/an fork"
+      ]
+    }
+  },
+  "COCO_val2014_000000021029.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an baseball bat",
+        "hit a/an sports ball"
+      ],
+      "wrong_choices": [
+        "look at a/an baseball bat",
+        "hold a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000021989.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "wear a/an skis",
+        "hold a/an skis",
+        "ski on a/an skis"
+      ],
+      "wrong_choices": [
+        "adjust a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000022085.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "throw a/an frisbee",
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "spin a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000022850.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "hold a/an knife",
+        "look at a/an knife",
+        "look at a/an cake"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000024040.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "hold a/an skis"
+      ],
+      "wrong_choices": [
+        "jump on a/an skis",
+        "jump a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000025386.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "eat a/an sandwich"
+      ],
+      "wrong_choices": [
+        "hold a/an person",
+        "look at a/an sandwich"
+      ]
+    }
+  },
+  "COCO_val2014_000000026507.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an frisbee",
+        "throw a/an frisbee",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "look at a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000026734.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an person",
+        "drag a/an suitcase",
+        "carry a/an suitcase"
+      ],
+      "wrong_choices": [
+        "walk a/an dog"
+      ]
+    }
+  },
+  "COCO_val2014_000000027871.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "straddle a/an horse",
+        "ride a/an horse",
+        "sit on a/an horse",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an sports ball",
+        "ride a/an horse",
+        "sit on a/an horse",
+        "hold a/an horse"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000028676.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "look at a/an frisbee",
+        "hold a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000034372.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "throw a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an frisbee",
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000035671.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an cow",
+        "sit on a/an horse"
+      ],
+      "wrong_choices": [
+        "lasso a/an cow",
+        "herd a/an cow"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "run a/an horse",
+        "straddle a/an horse",
+        "sit on a/an horse"
+      ],
+      "wrong_choices": [
+        "race a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000038449.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an suitcase",
+        "carry a/an handbag"
+      ],
+      "wrong_choices": [
+        "pick up a/an suitcase",
+        "board a/an car"
+      ]
+    }
+  },
+  "COCO_val2014_000000038829.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an bicycle",
+        "straddle a/an bicycle",
+        "hold a/an bicycle"
+      ],
+      "wrong_choices": [
+        "ride a/an motorcycle"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "straddle a/an bicycle",
+        "ride a/an bicycle"
+      ],
+      "wrong_choices": [
+        "hold a/an bicycle",
+        "walk a/an bicycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000039211.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "read a/an laptop",
+        "control a/an mouse",
+        "sit on a/an chair"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "look at a/an tv"
+      ],
+      "wrong_choices": [
+        "look at a/an laptop",
+        "type on a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000040729.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an knife",
+        "wield a/an knife",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "pick up a/an cake"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an knife",
+        "look at a/an knife",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "hold a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000041279.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an pizza",
+        "no interaction with a/an cup",
+        "sit on a/an chair"
+      ],
+      "wrong_choices": [
+        "look at a/an pizza"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an pizza",
+        "sit on a/an chair"
+      ],
+      "wrong_choices": [
+        "look at a/an pizza",
+        "pick up a/an pizza"
+      ]
+    }
+  },
+  "COCO_val2014_000000044476.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "dribble a/an sports ball",
+        "look at a/an sports ball",
+        "hit a/an sports ball"
+      ],
+      "wrong_choices": [
+        "block a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000045687.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "read a/an laptop",
+        "type on a/an laptop",
+        "work on a/an laptop"
+      ],
+      "wrong_choices": [
+        "watch a/an tv"
+      ]
+    }
+  },
+  "COCO_val2014_000000050025.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "read a/an book",
+        "look at a/an book",
+        "sit on a/an bed"
+      ],
+      "wrong_choices": [
+        "lie on a/an bed"
+      ]
+    }
+  },
+  "COCO_val2014_000000053145.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "surf a/an surfboard",
+        "lie on a/an surfboard",
+        "hold a/an surfboard"
+      ],
+      "wrong_choices": [
+        "sit on a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000054761.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an book",
+        "hold a/an book",
+        "carry a/an backpack"
+      ],
+      "wrong_choices": [
+        "hold a/an suitcase"
+      ]
+    }
+  },
+  "COCO_val2014_000000055150.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an suitcase",
+        "hold a/an book"
+      ],
+      "wrong_choices": [
+        "hold a/an suitcase",
+        "ride a/an car"
+      ]
+    }
+  },
+  "COCO_val2014_000000059202.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "jump on a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000059743.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an surfboard",
+        "carry a/an surfboard"
+      ],
+      "wrong_choices": [
+        "look at a/an surfboard",
+        "surf a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000060080.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "jump a/an skateboard",
+        "tag a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000060246.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut a/an cake",
+        "look at a/an cake",
+        "hold a/an person"
+      ],
+      "wrong_choices": [
+        "make a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000063521.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "eat with a/an spoon",
+        "eat a/an cake",
+        "hold a/an spoon"
+      ],
+      "wrong_choices": [
+        "look at a/an spoon"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an fork",
+        "eat with a/an fork"
+      ],
+      "wrong_choices": [
+        "lie on a/an couch",
+        "look at a/an fork"
+      ]
+    }
+  },
+  "COCO_val2014_000000063595.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit with a/an tennis racket",
+        "swing a/an tennis racket",
+        "hit a/an sports ball"
+      ],
+      "wrong_choices": [
+        "hold a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000063906.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an surfboard",
+        "look at a/an surfboard"
+      ],
+      "wrong_choices": [
+        "drag a/an surfboard",
+        "inspect a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000065350.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "stand on a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "flip a/an skateboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "jump on a/an skateboard"
+      ],
+      "wrong_choices": [
+        "pick up a/an skateboard",
+        "sit on a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000067252.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "skateboard a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "flip a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000068408.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "kick a/an sports ball",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "catch a/an sports ball",
+        "pick up a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000070201.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut a/an cake",
+        "hold a/an knife"
+      ],
+      "wrong_choices": [
+        "hold a/an cake",
+        "eat a/an cake"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an knife",
+        "look at a/an cake",
+        "hold a/an person"
+      ],
+      "wrong_choices": [
+        "eat with a/an knife"
+      ]
+    }
+  },
+  "COCO_val2014_000000071021.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "control a/an mouse",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000071385.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "surf a/an surfboard",
+        "look at a/an surfboard"
+      ],
+      "wrong_choices": [
+        "jump on a/an surfboard",
+        "hold a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000073201.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "eat with a/an fork",
+        "look at a/an pizza"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an fork",
+        "lift a/an fork"
+      ]
+    }
+  },
+  "COCO_val2014_000000074462.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an sports ball",
+        "dribble a/an sports ball",
+        "inspect a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000074967.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an scissors",
+        "cut a/an person",
+        "look at a/an scissors"
+      ],
+      "wrong_choices": [
+        "hold a/an person"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an scissors",
+        "cut a/an person",
+        "look at a/an scissors"
+      ],
+      "wrong_choices": [
+        "hold a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000075183.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an couch",
+        "type on a/an laptop",
+        "hold a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": [
+        "hold a/an laptop",
+        "type on a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000081798.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "wear a/an skis",
+        "ride a/an skis",
+        "ski on a/an skis",
+        "hold a/an skis"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000083049.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an bench",
+        "hold a/an person",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "lie on a/an bench"
+      ]
+    }
+  },
+  "COCO_val2014_000000083172.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an tennis racket",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "inspect a/an tennis racket",
+        "hold a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000083573.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "stand on a/an skis",
+        "wear a/an skis",
+        "hold a/an skis",
+        "ski on a/an skis"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000085144.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an person",
+        "carry a/an backpack",
+        "ski on a/an skis"
+      ],
+      "wrong_choices": [
+        "hold a/an backpack"
+      ]
+    }
+  },
+  "COCO_val2014_000000086011.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "read a/an laptop",
+        "look at a/an laptop",
+        "work on a/an laptop",
+        "control a/an mouse"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000086439.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an umbrella",
+        "hold a/an umbrella",
+        "stand under a/an umbrella"
+      ],
+      "wrong_choices": [
+        "look at a/an umbrella"
+      ]
+    }
+  },
+  "COCO_val2014_000000086516.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an person",
+        "look at a/an person",
+        "ski on a/an skis"
+      ],
+      "wrong_choices": [
+        "adjust a/an skis"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "wear a/an skis",
+        "ride a/an skis",
+        "ski on a/an skis",
+        "look at a/an skis"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000086646.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "eat a/an cake",
+        "hold a/an spoon",
+        "look at a/an cake",
+        "eat with a/an spoon"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "eat a/an cake",
+        "eat with a/an spoon"
+      ],
+      "wrong_choices": [
+        "cut a/an cake",
+        "look at a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000087476.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an person",
+        "skateboard a/an skateboard"
+      ],
+      "wrong_choices": [
+        "hold a/an skateboard",
+        "teach a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000087740.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an elephant",
+        "sit on a/an chair"
+      ],
+      "wrong_choices": [
+        "pet a/an elephant",
+        "hop on a/an elephant"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "sit on a/an elephant"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an elephant",
+        "hop on a/an elephant",
+        "watch a/an elephant"
+      ]
+    },
+    "QA_2": {
+      "gt_choices": [
+        "ride a/an elephant",
+        "walk a/an elephant",
+        "sit on a/an elephant"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an elephant"
+      ]
+    }
+  },
+  "COCO_val2014_000000088436.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "look at a/an laptop",
+        "read a/an laptop"
+      ],
+      "wrong_choices": [
+        "open a/an laptop"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop",
+        "hold a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000089648.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "read a/an laptop",
+        "work on a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop",
+        "hold a/an cell phone"
+      ]
+    }
+  },
+  "COCO_val2014_000000092339.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "straddle a/an horse",
+        "hold a/an horse",
+        "sit on a/an horse"
+      ],
+      "wrong_choices": [
+        "jump a/an horse"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "walk a/an horse",
+        "sit on a/an horse"
+      ],
+      "wrong_choices": [
+        "walk a/an horse",
+        "look at a/an horse"
+      ]
+    },
+    "QA_2": {
+      "gt_choices": [
+        "walk a/an horse",
+        "sit on a/an horse"
+      ],
+      "wrong_choices": [
+        "run a/an horse",
+        "jump a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000092985.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an remote",
+        "look at a/an remote"
+      ],
+      "wrong_choices": [
+        "look at a/an book",
+        "lie on a/an couch"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "read a/an book",
+        "look at a/an book"
+      ],
+      "wrong_choices": [
+        "lie on a/an couch",
+        "open a/an book"
+      ]
+    }
+  },
+  "COCO_val2014_000000094194.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an person",
+        "hold a/an knife"
+      ],
+      "wrong_choices": [
+        "look at a/an cake",
+        "hold a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000096615.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an pizza",
+        "eat a/an pizza"
+      ],
+      "wrong_choices": [
+        "look at a/an pizza",
+        "pick up a/an pizza"
+      ]
+    }
+  },
+  "COCO_val2014_000000099938.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "lie on a/an bed",
+        "hold a/an book"
+      ],
+      "wrong_choices": [
+        "sit on a/an bed",
+        "read a/an book"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "read a/an book",
+        "hold a/an book"
+      ],
+      "wrong_choices": [
+        "sit on a/an bed",
+        "carry a/an book"
+      ]
+    }
+  },
+  "COCO_val2014_000000101933.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "hold a/an motorcycle",
+        "straddle a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "hop on a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000102532.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "wear a/an baseball glove",
+        "hold a/an baseball glove",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "tag a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000106617.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an pizza",
+        "sit on a/an chair",
+        "pick up a/an pizza"
+      ],
+      "wrong_choices": [
+        "look at a/an pizza"
+      ]
+    }
+  },
+  "COCO_val2014_000000107226.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an bicycle",
+        "look at a/an dog"
+      ],
+      "wrong_choices": [
+        "walk a/an dog",
+        "hop on a/an bicycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000108094.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "straddle a/an motorcycle",
+        "sit on a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "hold a/an person",
+        "hold a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000110562.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an laptop",
+        "read a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop",
+        "hold a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000110597.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "hold a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "throw a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000112362.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "catch a/an sports ball",
+        "carry a/an sports ball",
+        "talk on a/an cell phone"
+      ]
+    }
+  },
+  "COCO_val2014_000000112769.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "hold a/an bottle",
+        "hold a/an person"
+      ],
+      "wrong_choices": [
+        "wear a/an backpack"
+      ]
+    }
+  },
+  "COCO_val2014_000000113282.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an suitcase",
+        "carry a/an backpack",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "look at a/an suitcase"
+      ]
+    }
+  },
+  "COCO_val2014_000000113720.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "eat with a/an fork",
+        "eat a/an pizza"
+      ],
+      "wrong_choices": [
+        "look at a/an pizza",
+        "lift a/an fork"
+      ]
+    }
+  },
+  "COCO_val2014_000000114291.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "throw a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "catch a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000116061.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "look at a/an dog",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "hug a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000116132.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an laptop",
+        "sit on a/an chair",
+        "read a/an laptop"
+      ],
+      "wrong_choices": [
+        "hold a/an mouse"
+      ]
+    }
+  },
+  "COCO_val2014_000000116377.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "wear a/an skis",
+        "ride a/an skis",
+        "look at a/an person"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000117222.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an bicycle",
+        "sit on a/an bicycle",
+        "carry a/an banana",
+        "straddle a/an bicycle"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000117424.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "throw a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000119365.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an laptop",
+        "work on a/an laptop",
+        "read a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an cell phone"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop",
+        "work on a/an laptop",
+        "read a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000119939.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an skateboard",
+        "carry a/an backpack",
+        "look at a/an skateboard",
+        "skateboard a/an skateboard"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000120347.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an backpack",
+        "ski on a/an skis",
+        "wear a/an backpack",
+        "ride a/an skis"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000121031.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "hold a/an horse"
+      ],
+      "wrong_choices": [
+        "hop on a/an horse",
+        "groom a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000124013.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an horse",
+        "sit on a/an horse"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an horse",
+        "walk a/an horse"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "straddle a/an horse",
+        "hold a/an horse"
+      ],
+      "wrong_choices": [
+        "wash a/an horse",
+        "walk a/an bicycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000124279.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "read a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop",
+        "no interaction with a/an chair"
+      ]
+    }
+  },
+  "COCO_val2014_000000124327.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit a/an sports ball",
+        "look at a/an sports ball",
+        "wield a/an baseball bat",
+        "hit with a/an baseball bat"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000126434.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit with a/an baseball bat",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "serve a/an sports ball",
+        "throw a/an baseball bat"
+      ]
+    }
+  },
+  "COCO_val2014_000000127263.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "throw a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000127873.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "eat with a/an spoon",
+        "eat a/an cake",
+        "sit on a/an bench"
+      ],
+      "wrong_choices": [
+        "look at a/an cake"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "cut a/an cake",
+        "blow a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000131152.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an surfboard",
+        "carry a/an surfboard"
+      ],
+      "wrong_choices": [
+        "stand on a/an surfboard",
+        "surf a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000132796.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an elephant",
+        "look at a/an elephant",
+        "hold a/an elephant"
+      ],
+      "wrong_choices": [
+        "hop on a/an elephant"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "ride a/an elephant",
+        "hold a/an bench",
+        "sit on a/an bench",
+        "wear a/an backpack"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000133386.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "jump on a/an skateboard"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard",
+        "stand on a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000138488.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "hold a/an motorcycle",
+        "straddle a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "race a/an motorcycle"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "look at a/an motorcycle",
+        "walk a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000143024.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "read a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an laptop"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "look at a/an laptop",
+        "type on a/an laptop",
+        "read a/an laptop"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000143440.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "snowboard a/an snowboard",
+        "look at a/an snowboard",
+        "stand on a/an snowboard"
+      ],
+      "wrong_choices": [
+        "jump on a/an snowboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000144468.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "walk a/an elephant",
+        "hold a/an elephant",
+        "ride a/an elephant",
+        "sit on a/an elephant"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000144874.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an surfboard",
+        "hold a/an surfboard"
+      ],
+      "wrong_choices": [
+        "stand on a/an surfboard",
+        "surf a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000145408.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an skateboard",
+        "skateboard a/an skateboard"
+      ],
+      "wrong_choices": [
+        "jump on a/an skateboard",
+        "flip a/an skateboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "look at a/an skateboard",
+        "skateboard a/an skateboard"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard"
+      ]
+    },
+    "QA_2": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "ride a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "jump on a/an skateboard"
+      ]
+    },
+    "QA_3": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "skateboard a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000146397.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "jump on a/an skateboard"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard",
+        "flip a/an skateboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "jump a/an skateboard",
+        "grind a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000146757.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "hold a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "flip a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000147681.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "jump on a/an skateboard"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an skateboard",
+        "hold a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000150649.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard",
+        "jump on a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000152326.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut a/an cake",
+        "hold a/an knife",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "stick a/an knife"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an knife",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an knife",
+        "hold a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000153229.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "hold a/an frisbee"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an frisbee",
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000153455.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an remote",
+        "watch a/an tv",
+        "look at a/an tv"
+      ],
+      "wrong_choices": [
+        "point a/an remote"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "swing a/an remote",
+        "look at a/an tv"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an tv",
+        "look at a/an remote"
+      ]
+    }
+  },
+  "COCO_val2014_000000153976.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "skateboard a/an skateboard",
+        "ride a/an skateboard"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "jump on a/an skateboard",
+        "hold a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000157271.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee",
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000159774.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an sports ball",
+        "kick a/an sports ball"
+      ],
+      "wrong_choices": [
+        "block a/an sports ball",
+        "hit a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000159854.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "throw a/an frisbee",
+        "hold a/an frisbee",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "catch a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000163118.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee",
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000165225.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "watch a/an tv",
+        "look at a/an tv"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an tv"
+      ]
+    }
+  },
+  "COCO_val2014_000000166696.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an baseball glove",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "pick up a/an sports ball",
+        "catch a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000166840.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "jump on a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "hold a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000168583.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an suitcase",
+        "carry a/an suitcase"
+      ],
+      "wrong_choices": [
+        "drag a/an suitcase",
+        "look at a/an suitcase"
+      ]
+    }
+  },
+  "COCO_val2014_000000169089.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "lie on a/an surfboard",
+        "hold a/an surfboard",
+        "surf a/an surfboard"
+      ],
+      "wrong_choices": [
+        "sit on a/an surfboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "surf a/an surfboard",
+        "hold a/an surfboard"
+      ],
+      "wrong_choices": [
+        "drag a/an surfboard",
+        "sit on a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000170436.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an laptop",
+        "work on a/an laptop",
+        "hold a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000170716.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "hold a/an knife",
+        "look at a/an knife"
+      ],
+      "wrong_choices": [
+        "slide a/an pizza"
+      ]
+    }
+  },
+  "COCO_val2014_000000172513.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut a/an cake",
+        "hold a/an scissors",
+        "cut with a/an scissors"
+      ],
+      "wrong_choices": [
+        "light a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000172710.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "hold a/an handbag",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "carry a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000179584.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "throw a/an frisbee",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000180524.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an elephant",
+        "sit on a/an bench"
+      ],
+      "wrong_choices": [
+        "pet a/an elephant",
+        "walk a/an elephant"
+      ]
+    }
+  },
+  "COCO_val2014_000000181013.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "throw a/an frisbee",
+        "hold a/an frisbee"
+      ],
+      "wrong_choices": [
+        "catch a/an frisbee",
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000185559.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "hold a/an knife",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "stick a/an knife"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an knife",
+        "hold a/an person",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "hold a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000185807.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an spoon"
+      ],
+      "wrong_choices": [
+        "sit on a/an chair",
+        "eat with a/an spoon",
+        "no interaction with a/an couch"
+      ]
+    }
+  },
+  "COCO_val2014_000000187055.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an sports ball",
+        "catch a/an sports ball"
+      ],
+      "wrong_choices": [
+        "hold a/an sports ball",
+        "serve a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000189305.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "work on a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop",
+        "open a/an laptop",
+        "hold a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000189714.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "wear a/an skis",
+        "jump on a/an skis",
+        "ski on a/an skis"
+      ],
+      "wrong_choices": [
+        "hold a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000191585.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an suitcase",
+        "drag a/an suitcase",
+        "hold a/an suitcase"
+      ],
+      "wrong_choices": [
+        "pick up a/an suitcase"
+      ]
+    }
+  },
+  "COCO_val2014_000000194097.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "hold a/an person",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "make a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000196989.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an elephant",
+        "hold a/an umbrella"
+      ],
+      "wrong_choices": [
+        "look at a/an umbrella",
+        "watch a/an elephant"
+      ]
+    }
+  },
+  "COCO_val2014_000000198492.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an dining table",
+        "hold a/an donut",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "look at a/an donut"
+      ]
+    }
+  },
+  "COCO_val2014_000000198530.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "hold a/an person"
+      ],
+      "wrong_choices": [
+        "pick up a/an skis",
+        "look at a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000202799.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an skateboard",
+        "skateboard a/an skateboard",
+        "jump on a/an skateboard"
+      ],
+      "wrong_choices": [
+        "flip a/an skateboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an skateboard",
+        "skateboard a/an skateboard"
+      ],
+      "wrong_choices": [
+        "jump on a/an skateboard",
+        "pick up a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000203275.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "swing a/an tennis racket",
+        "hit a/an sports ball",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "throw a/an sports ball"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hit with a/an tennis racket",
+        "hit a/an sports ball",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "inspect a/an tennis racket"
+      ]
+    }
+  },
+  "COCO_val2014_000000205883.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "look at a/an skateboard",
+        "skateboard a/an skateboard"
+      ],
+      "wrong_choices": [
+        "hold a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000206838.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "hold a/an horse",
+        "walk a/an horse"
+      ],
+      "wrong_choices": [
+        "look at a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000208543.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "jump on a/an skis",
+        "ski on a/an skis",
+        "hold a/an skis",
+        "ride a/an skis"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an person",
+        "hold a/an skis",
+        "ski on a/an skis"
+      ],
+      "wrong_choices": [
+        "jump on a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000210439.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "no interaction with a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000211690.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an couch",
+        "cut with a/an scissors",
+        "look at a/an scissors"
+      ],
+      "wrong_choices": [
+        "lie on a/an couch"
+      ]
+    }
+  },
+  "COCO_val2014_000000212116.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an horse",
+        "sit on a/an horse",
+        "hold a/an handbag",
+        "straddle a/an horse"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "hold a/an suitcase"
+      ],
+      "wrong_choices": [
+        "load a/an horse",
+        "hold a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000212800.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an umbrella",
+        "ride a/an boat",
+        "carry a/an umbrella"
+      ],
+      "wrong_choices": [
+        "stand under a/an umbrella"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an umbrella",
+        "ride a/an boat"
+      ],
+      "wrong_choices": [
+        "stand under a/an umbrella",
+        "drive a/an boat"
+      ]
+    }
+  },
+  "COCO_val2014_000000215151.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "skateboard a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000215982.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an remote",
+        "look at a/an tv"
+      ],
+      "wrong_choices": [
+        "look at a/an remote",
+        "swing a/an remote"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "swing a/an remote",
+        "hold a/an remote",
+        "look at a/an tv"
+      ],
+      "wrong_choices": [
+        "look at a/an remote"
+      ]
+    }
+  },
+  "COCO_val2014_000000216096.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "surf a/an surfboard",
+        "look at a/an surfboard"
+      ],
+      "wrong_choices": [
+        "jump a/an surfboard",
+        "drag a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000216198.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "kick a/an sports ball",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "hit a/an sports ball",
+        "serve a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000216325.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an surfboard",
+        "carry a/an surfboard"
+      ],
+      "wrong_choices": [
+        "surf a/an surfboard",
+        "jump on a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000216581.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an book",
+        "read a/an book",
+        "look at a/an book"
+      ],
+      "wrong_choices": [
+        "open a/an book"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "text on a/an cell phone",
+        "look at a/an cell phone",
+        "hold a/an cell phone"
+      ],
+      "wrong_choices": [
+        "talk on a/an cell phone"
+      ]
+    },
+    "QA_2": {
+      "gt_choices": [
+        "talk on a/an cell phone",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "kiss a/an person",
+        "text on a/an cell phone"
+      ]
+    }
+  },
+  "COCO_val2014_000000217078.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee",
+        "carry a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000219487.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "throw a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an frisbee",
+        "catch a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000221094.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "straddle a/an bicycle",
+        "drag a/an suitcase",
+        "carry a/an suitcase"
+      ],
+      "wrong_choices": [
+        "carry a/an bicycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000221172.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "swing a/an tennis racket",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an sports ball",
+        "hold a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000222781.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "throw a/an frisbee"
+      ],
+      "wrong_choices": [
+        "carry a/an frisbee",
+        "catch a/an frisbee"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee",
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000223643.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an pizza",
+        "carry a/an pizza"
+      ],
+      "wrong_choices": [
+        "pick up a/an pizza",
+        "smell a/an pizza"
+      ]
+    }
+  },
+  "COCO_val2014_000000223699.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "eat with a/an fork",
+        "hold a/an fork",
+        "eat a/an cake"
+      ],
+      "wrong_choices": [
+        "cut with a/an fork"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an donut",
+        "eat a/an donut",
+        "no interaction with a/an fork"
+      ],
+      "wrong_choices": [
+        "look at a/an donut"
+      ]
+    }
+  },
+  "COCO_val2014_000000223751.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "surf a/an surfboard",
+        "lie on a/an surfboard",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "carry a/an surfboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "surf a/an surfboard",
+        "lie on a/an surfboard",
+        "look at a/an surfboard"
+      ],
+      "wrong_choices": [
+        "sit on a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000225405.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "kick a/an sports ball",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "serve a/an sports ball",
+        "catch a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000227204.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an banana",
+        "eat a/an banana",
+        "eat at a/an dining table"
+      ],
+      "wrong_choices": [
+        "peel a/an banana"
+      ]
+    }
+  },
+  "COCO_val2014_000000227399.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an bicycle",
+        "sit on a/an bicycle",
+        "hold a/an bicycle"
+      ],
+      "wrong_choices": [
+        "drive a/an train"
+      ]
+    }
+  },
+  "COCO_val2014_000000227901.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "look at a/an laptop",
+        "hold a/an laptop",
+        "read a/an laptop"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000228676.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an handbag",
+        "hold a/an handbag"
+      ],
+      "wrong_choices": [
+        "look at a/an handbag",
+        "wear a/an backpack"
+      ]
+    }
+  },
+  "COCO_val2014_000000231379.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an book",
+        "read a/an book",
+        "look at a/an book"
+      ],
+      "wrong_choices": [
+        "straddle a/an motorcycle"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "sit on a/an motorcycle",
+        "park a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "straddle a/an motorcycle",
+        "hold a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000231879.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an person",
+        "sit on a/an chair",
+        "hug a/an person",
+        "look at a/an person"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000232488.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "type on a/an laptop",
+        "read a/an laptop",
+        "work on a/an laptop",
+        "sit on a/an chair"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000233771.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "stand under a/an umbrella",
+        "carry a/an umbrella"
+      ],
+      "wrong_choices": [
+        "set a/an umbrella",
+        "look at a/an umbrella"
+      ]
+    }
+  },
+  "COCO_val2014_000000233815.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an elephant",
+        "ride a/an elephant",
+        "pet a/an elephant"
+      ],
+      "wrong_choices": [
+        "pet a/an elephant"
+      ]
+    }
+  },
+  "COCO_val2014_000000236189.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an frisbee",
+        "throw a/an frisbee"
+      ],
+      "wrong_choices": [
+        "catch a/an frisbee",
+        "spin a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000237487.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit with a/an baseball bat",
+        "wield a/an baseball bat",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "throw a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000238472.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "pick up a/an skis",
+        "repair a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000240033.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "hold a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000240950.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "eat with a/an fork",
+        "hold a/an fork",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "look at a/an fork"
+      ]
+    }
+  },
+  "COCO_val2014_000000243780.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "hold a/an knife"
+      ],
+      "wrong_choices": [
+        "look at a/an knife",
+        "no interaction with a/an knife"
+      ]
+    }
+  },
+  "COCO_val2014_000000244050.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "look at a/an horse",
+        "hold a/an horse",
+        "race a/an horse"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an cell phone",
+        "look at a/an horse"
+      ],
+      "wrong_choices": [
+        "ride a/an horse",
+        "race a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000246014.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an tennis racket",
+        "hit a/an sports ball",
+        "hit with a/an tennis racket"
+      ],
+      "wrong_choices": [
+        "serve a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000246883.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an surfboard",
+        "look at a/an surfboard",
+        "hold a/an surfboard"
+      ],
+      "wrong_choices": [
+        "drag a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000247259.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "read a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop",
+        "look at a/an chair"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "work on a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": [
+        "lie on a/an chair"
+      ]
+    }
+  },
+  "COCO_val2014_000000247839.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an wine glass",
+        "drink with a/an wine glass",
+        "sit on a/an chair"
+      ],
+      "wrong_choices": [
+        "fill a/an wine glass"
+      ]
+    }
+  },
+  "COCO_val2014_000000248353.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "stand on a/an skis",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "look at a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000250137.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an handbag",
+        "stand under a/an umbrella",
+        "hold a/an umbrella"
+      ],
+      "wrong_choices": [
+        "look at a/an umbrella"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "carry a/an cup",
+        "hold a/an cup",
+        "no interaction with a/an umbrella"
+      ],
+      "wrong_choices": [
+        "look at a/an cup"
+      ]
+    }
+  },
+  "COCO_val2014_000000250301.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an surfboard",
+        "carry a/an surfboard"
+      ],
+      "wrong_choices": [
+        "drag a/an surfboard",
+        "ride a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000251317.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "throw a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "catch a/an frisbee",
+        "hug a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000251580.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit with a/an tennis racket",
+        "hit a/an sports ball"
+      ],
+      "wrong_choices": [
+        "pick up a/an sports ball",
+        "throw a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000252300.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an sports ball",
+        "kick a/an sports ball"
+      ],
+      "wrong_choices": [
+        "block a/an sports ball",
+        "serve a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000256601.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "drag a/an suitcase",
+        "carry a/an suitcase"
+      ],
+      "wrong_choices": [
+        "hold a/an person",
+        "look at a/an suitcase"
+      ]
+    }
+  },
+  "COCO_val2014_000000256868.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "jump on a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000258243.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "eat a/an apple",
+        "hold a/an cup",
+        "sit on a/an chair"
+      ],
+      "wrong_choices": [
+        "hold a/an apple"
+      ]
+    }
+  },
+  "COCO_val2014_000000259761.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an cup",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "hold a/an cake",
+        "cut a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000260025.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut a/an cake",
+        "hold a/an knife"
+      ],
+      "wrong_choices": [
+        "look at a/an cake",
+        "hold a/an cake"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an knife",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "hold a/an cake",
+        "blow a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000260166.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an elephant",
+        "ride a/an elephant"
+      ],
+      "wrong_choices": [
+        "hop on a/an elephant",
+        "look at a/an elephant"
+      ]
+    }
+  },
+  "COCO_val2014_000000261487.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit a/an sports ball",
+        "hit with a/an tennis racket"
+      ],
+      "wrong_choices": [
+        "hold a/an sports ball",
+        "block a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000261805.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an backpack",
+        "carry a/an suitcase",
+        "drag a/an suitcase"
+      ],
+      "wrong_choices": [
+        "wear a/an backpack"
+      ]
+    },
+    "QA_2": {
+      "gt_choices": [
+        "carry a/an handbag",
+        "hold a/an suitcase"
+      ],
+      "wrong_choices": [
+        "hold a/an handbag",
+        "pick up a/an suitcase"
+      ]
+    }
+  },
+  "COCO_val2014_000000262404.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "eat with a/an knife",
+        "cut a/an cake",
+        "eat a/an cake",
+        "cut with a/an knife"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "eat a/an cake",
+        "look at a/an person",
+        "eat with a/an knife"
+      ],
+      "wrong_choices": [
+        "cut a/an cake"
+      ]
+    },
+    "QA_2": {
+      "gt_choices": [
+        "look at a/an cake",
+        "cut a/an cake",
+        "hold a/an knife"
+      ],
+      "wrong_choices": [
+        "stick a/an knife"
+      ]
+    }
+  },
+  "COCO_val2014_000000263969.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "hold a/an knife",
+        "wield a/an knife"
+      ],
+      "wrong_choices": [
+        "hold a/an cake"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an person",
+        "hold a/an knife",
+        "cut a/an cake"
+      ],
+      "wrong_choices": [
+        "hold a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000264497.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an suitcase",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "hold a/an person",
+        "hug a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000265462.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "skateboard a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "hold a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000266889.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "kick a/an sports ball",
+        "dribble a/an sports ball",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "hold a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000268378.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "eat with a/an fork",
+        "hold a/an fork"
+      ],
+      "wrong_choices": [
+        "lift a/an fork",
+        "look at a/an fork"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "eat with a/an fork",
+        "hold a/an fork"
+      ],
+      "wrong_choices": [
+        "look at a/an fork"
+      ]
+    }
+  },
+  "COCO_val2014_000000269316.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "throw a/an frisbee",
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an frisbee"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an frisbee",
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000272110.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "jump on a/an skateboard"
+      ],
+      "wrong_choices": [
+        "hold a/an skateboard",
+        "grind a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000274399.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an elephant",
+        "hold a/an elephant"
+      ],
+      "wrong_choices": [
+        "hose a/an elephant",
+        "walk a/an elephant"
+      ]
+    }
+  },
+  "COCO_val2014_000000274541.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop",
+        "open a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000276024.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "hold a/an horse",
+        "straddle a/an horse",
+        "herd a/an cow"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000277291.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "stand under a/an umbrella",
+        "carry a/an backpack",
+        "hold a/an umbrella"
+      ],
+      "wrong_choices": [
+        "hold a/an backpack"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an umbrella",
+        "carry a/an handbag",
+        "stand under a/an umbrella"
+      ],
+      "wrong_choices": [
+        "hold a/an handbag"
+      ]
+    }
+  },
+  "COCO_val2014_000000277971.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an book",
+        "look at a/an book",
+        "sit on a/an bed"
+      ],
+      "wrong_choices": [
+        "lie on a/an bed"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "sit on a/an bed",
+        "look at a/an book"
+      ],
+      "wrong_choices": [
+        "lie on a/an bed",
+        "hold a/an book"
+      ]
+    }
+  },
+  "COCO_val2014_000000278636.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee",
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000278705.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an skateboard",
+        "stand on a/an skateboard",
+        "skateboard a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000278742.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop",
+        "open a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000279176.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "throw a/an frisbee",
+        "hold a/an frisbee"
+      ],
+      "wrong_choices": [
+        "look at a/an frisbee",
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000280008.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "throw a/an frisbee"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee",
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000280370.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "hold a/an horse",
+        "lasso a/an cow"
+      ],
+      "wrong_choices": [
+        "hop on a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000289120.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an bowl",
+        "eat with a/an spoon"
+      ],
+      "wrong_choices": [
+        "stir a/an bowl",
+        "look at a/an bowl"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an spoon",
+        "eat with a/an spoon"
+      ],
+      "wrong_choices": [
+        "hold a/an spoon",
+        "lick a/an spoon"
+      ]
+    }
+  },
+  "COCO_val2014_000000289423.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "throw a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000292456.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an handbag",
+        "look at a/an person",
+        "carry a/an handbag",
+        "ride a/an motorcycle"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an handbag",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "greet a/an person",
+        "look at a/an handbag"
+      ]
+    }
+  },
+  "COCO_val2014_000000292464.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an knife",
+        "look at a/an cake",
+        "cut a/an cake",
+        "wield a/an knife"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an cake",
+        "hold a/an fork",
+        "pick up a/an cake"
+      ],
+      "wrong_choices": [
+        "cut a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000293175.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an elephant",
+        "hold a/an elephant"
+      ],
+      "wrong_choices": [
+        "hop on a/an elephant",
+        "look at a/an elephant"
+      ]
+    }
+  },
+  "COCO_val2014_000000293207.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee",
+        "block a/an frisbee"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "throw a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000293811.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an sports ball",
+        "hit with a/an baseball bat",
+        "hit a/an sports ball"
+      ],
+      "wrong_choices": [
+        "throw a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000294176.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an bicycle",
+        "push a/an bicycle",
+        "wear a/an backpack"
+      ],
+      "wrong_choices": [
+        "ride a/an bicycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000295194.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "look at a/an cow",
+        "lasso a/an cow"
+      ],
+      "wrong_choices": [
+        "herd a/an cow"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "ride a/an horse",
+        "sit on a/an horse",
+        "lasso a/an cow"
+      ],
+      "wrong_choices": [
+        "race a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000295472.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an laptop",
+        "work on a/an laptop",
+        "hold a/an laptop"
+      ],
+      "wrong_choices": [
+        "open a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000296731.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "stand on a/an skis",
+        "ski on a/an skis",
+        "jump on a/an skis",
+        "ride a/an skis"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000298197.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "work on a/an laptop"
+      ],
+      "wrong_choices": [
+        "look at a/an laptop",
+        "lie on a/an chair"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "work on a/an laptop"
+      ],
+      "wrong_choices": [
+        "look at a/an laptop",
+        "hold a/an chair"
+      ]
+    }
+  },
+  "COCO_val2014_000000299319.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an umbrella",
+        "hold a/an umbrella",
+        "stand under a/an umbrella"
+      ],
+      "wrong_choices": [
+        "open a/an umbrella"
+      ]
+    }
+  },
+  "COCO_val2014_000000300368.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut a/an cake",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "hold a/an person",
+        "eat with a/an knife"
+      ]
+    }
+  },
+  "COCO_val2014_000000301867.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an handbag",
+        "look at a/an person",
+        "hold a/an umbrella"
+      ],
+      "wrong_choices": [
+        "hug a/an person"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "carry a/an handbag",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "hold a/an handbag",
+        "look at a/an handbag"
+      ]
+    },
+    "QA_2": {
+      "gt_choices": [
+        "hold a/an person",
+        "stand under a/an umbrella"
+      ],
+      "wrong_choices": [
+        "hold a/an umbrella",
+        "carry a/an handbag"
+      ]
+    }
+  },
+  "COCO_val2014_000000302498.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "carry a/an frisbee",
+        "throw a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000303499.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "straddle a/an horse",
+        "sit on a/an horse",
+        "hold a/an horse"
+      ],
+      "wrong_choices": [
+        "race a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000303543.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an surfboard",
+        "look at a/an surfboard"
+      ],
+      "wrong_choices": [
+        "drag a/an surfboard",
+        "walk a/an dog"
+      ]
+    }
+  },
+  "COCO_val2014_000000303653.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an horse",
+        "hold a/an horse"
+      ],
+      "wrong_choices": [
+        "run a/an horse",
+        "pet a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000304696.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "hold a/an knife",
+        "look at a/an knife"
+      ],
+      "wrong_choices": [
+        "hold a/an cake"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an knife",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "cut with a/an knife",
+        "cut a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000307611.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an laptop",
+        "work on a/an laptop",
+        "read a/an laptop",
+        "sit on a/an bed"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000310553.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "straddle a/an motorcycle",
+        "ride a/an motorcycle",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "hop on a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000311300.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "hold a/an person",
+        "greet a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000312289.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an knife",
+        "cut a/an cake",
+        "wield a/an knife",
+        "look at a/an cake"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an cake",
+        "hold a/an knife"
+      ],
+      "wrong_choices": [
+        "eat a/an cake",
+        "eat with a/an knife"
+      ]
+    }
+  },
+  "COCO_val2014_000000313770.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "hold a/an knife",
+        "wield a/an knife",
+        "look at a/an cake"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000316123.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "kick a/an sports ball",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an sports ball",
+        "look at a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000317410.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an suitcase",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "look at a/an suitcase",
+        "greet a/an person"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an person",
+        "carry a/an suitcase"
+      ],
+      "wrong_choices": [
+        "greet a/an person",
+        "pick up a/an suitcase"
+      ]
+    }
+  },
+  "COCO_val2014_000000317999.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an book",
+        "look at a/an book",
+        "read a/an book",
+        "lie on a/an bed"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000319579.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an book",
+        "hold a/an book",
+        "read a/an book"
+      ],
+      "wrong_choices": [
+        "work on a/an laptotp"
+      ]
+    }
+  },
+  "COCO_val2014_000000320350.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "hold a/an dog"
+      ],
+      "wrong_choices": [
+        "jump on a/an skis",
+        "look at a/an dog"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "hold a/an dog"
+      ],
+      "wrong_choices": [
+        "look at a/an dog",
+        "kiss a/an dog"
+      ]
+    }
+  },
+  "COCO_val2014_000000320743.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an person",
+        "ride a/an elephant",
+        "hold a/an elephant"
+      ],
+      "wrong_choices": [
+        "pet a/an elephant"
+      ]
+    }
+  },
+  "COCO_val2014_000000321886.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an motorcycle",
+        "ride a/an motorcycle",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "ride a/an bicycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000324595.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "throw a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000325873.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an laptop",
+        "read a/an laptop",
+        "work on a/an laptop"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000326168.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an bicycle",
+        "hop on a/an bicycle"
+      ],
+      "wrong_choices": [
+        "push a/an bicycle",
+        "walk a/an bicycle"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hop on a/an bicycle",
+        "ride a/an bicycle",
+        "hold a/an bicycle"
+      ],
+      "wrong_choices": [
+        "walk a/an bicycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000327165.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut a/an person",
+        "hold a/an scissors"
+      ],
+      "wrong_choices": [
+        "hold a/an person",
+        "stab a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000330611.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an person",
+        "skateboard a/an skateboard"
+      ],
+      "wrong_choices": [
+        "hold a/an skateboard",
+        "cut a/an person"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "ride on a/an skateboard"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard",
+        "hold a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000331289.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an backpack",
+        "straddle a/an motorcycle",
+        "ride a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "hold a/an backpack"
+      ]
+    }
+  },
+  "COCO_val2014_000000331959.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "hold a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "look at a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000332074.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "hold a/an skis"
+      ],
+      "wrong_choices": [
+        "adjust a/an skis",
+        "repair a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000333095.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an cup",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "drink with a/an cup",
+        "look at a/an cup"
+      ]
+    }
+  },
+  "COCO_val2014_000000334767.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "hold a/an skis"
+      ],
+      "wrong_choices": [
+        "inspect a/an skis",
+        "jump on a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000335325.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an person",
+        "ride a/an skis",
+        "ski on a/an skis"
+      ],
+      "wrong_choices": [
+        "hold a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000336645.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit a/an sports ball",
+        "hold a/an tennis racket",
+        "hit with a/an tennis racket"
+      ],
+      "wrong_choices": [
+        "hold a/an sports ball"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "serve a/an sports ball",
+        "hold a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000341719.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an snowboard"
+      ],
+      "wrong_choices": [
+        "snowboard a/an snowboard",
+        "wear a/an snowboard",
+        "ride a/an snowboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000341973.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an donut",
+        "eat a/an donut"
+      ],
+      "wrong_choices": [
+        "look at a/an donut",
+        "carry a/an donut"
+      ]
+    }
+  },
+  "COCO_val2014_000000344862.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "straddle a/an motorcycle",
+        "ride a/an motorcycle",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "turn a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000345160.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "hug a/an person",
+        "hold a/an person"
+      ],
+      "wrong_choices": [
+        "hold a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000345211.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an tennis racket",
+        "look at a/an sports ball",
+        "hit a/an sports ball"
+      ],
+      "wrong_choices": [
+        "serve a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000345520.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an elephant",
+        "look at a/an elephant"
+      ],
+      "wrong_choices": [
+        "wash a/an elephant",
+        "sit on a/an elephant"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "sit on a/an elephant",
+        "ride a/an elephant",
+        "look at a/an elephant"
+      ],
+      "wrong_choices": [
+        "wash a/an elephant"
+      ]
+    }
+  },
+  "COCO_val2014_000000349437.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "hold a/an person",
+        "hug a/an person"
+      ],
+      "wrong_choices": [
+        "turn a/an motorcycle"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "hold a/an person",
+        "park a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000349926.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an frisbee",
+        "block a/an frisbee"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee",
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000350289.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an surfboard",
+        "carry a/an surfboard"
+      ],
+      "wrong_choices": [
+        "drag a/an surfboard",
+        "surf a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000354832.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an frisbee",
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000355871.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "pick up a/an pizza",
+        "sit on a/an chair",
+        "eat a/an pizza"
+      ],
+      "wrong_choices": [
+        "look at a/an pizza"
+      ]
+    }
+  },
+  "COCO_val2014_000000356337.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an knife",
+        "hold a/an cake",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "pick up a/an cake"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "look at a/an cake",
+        "hold a/an person"
+      ],
+      "wrong_choices": [
+        "pick up a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000356394.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an bicycle",
+        "hold a/an bicycle",
+        "sit on a/an bicycle",
+        "carry a/an backpack"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000356622.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an boat",
+        "row a/an boat",
+        "sit on a/an chair"
+      ],
+      "wrong_choices": [
+        "lie on a/an chair"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "sit on a/an bicycle",
+        "ride a/an boat",
+        "sit on a/an boat"
+      ],
+      "wrong_choices": [
+        "row a/an boat"
+      ]
+    }
+  },
+  "COCO_val2014_000000356708.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "look at a/an person",
+        "ride a/an skis"
+      ],
+      "wrong_choices": [
+        "adjust a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000357176.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "hold a/an horse"
+      ],
+      "wrong_choices": [
+        "hop on a/an horse",
+        "groom a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000358086.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "hold a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000359676.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an suitcase",
+        "carry a/an backpack"
+      ],
+      "wrong_choices": [
+        "carry a/an handbag",
+        "pick up a/an suitcase"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an suitcase",
+        "drag a/an suitcase",
+        "carry a/an handbag"
+      ],
+      "wrong_choices": [
+        "carry a/an backpack"
+      ]
+    }
+  },
+  "COCO_val2014_000000360661.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "hold a/an horse",
+        "run a/an horse"
+      ],
+      "wrong_choices": [
+        "hug a/an horse"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "race a/an horse",
+        "run a/an horse",
+        "hold a/an horse"
+      ],
+      "wrong_choices": [
+        "hop on a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000360880.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an remote",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "swing a/an remote",
+        "point a/an remote"
+      ]
+    }
+  },
+  "COCO_val2014_000000363048.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "hug a/an person",
+        "hold a/an person"
+      ],
+      "wrong_choices": [
+        "carry a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000363181.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "wear a/an backpack",
+        "hold a/an book",
+        "talk on a/an cell phone"
+      ],
+      "wrong_choices": [
+        "look at a/an book"
+      ]
+    }
+  },
+  "COCO_val2014_000000363666.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "eat with a/an fork",
+        "eat at a/an dining table"
+      ],
+      "wrong_choices": [
+        "hold a/an chair"
+      ]
+    }
+  },
+  "COCO_val2014_000000365170.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an umbrella",
+        "stand under a/an umbrella",
+        "hold a/an umbrella"
+      ],
+      "wrong_choices": [
+        "open a/an umbrella"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an umbrella",
+        "carry a/an umbrella"
+      ],
+      "wrong_choices": [
+        "open a/an umbrella",
+        "set a/an umbrella"
+      ]
+    }
+  },
+  "COCO_val2014_000000365220.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "skateboard a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000370591.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "hold a/an knife"
+      ],
+      "wrong_choices": [
+        "look at a/an cake",
+        "hold a/an cake"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "cut a/an cake",
+        "hold a/an knife",
+        "cut with a/an knife"
+      ],
+      "wrong_choices": [
+        "hold a/an cake"
+      ]
+    },
+    "QA_2": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "hold a/an knife"
+      ],
+      "wrong_choices": [
+        "hold a/an cake",
+        "make a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000370657.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an handbag",
+        "hold a/an handbag",
+        "ride a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "turn a/an motorcycle"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "sit on a/an motorcycle",
+        "hold a/an motorcycle",
+        "straddle a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "park a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000371854.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an knife",
+        "cut a/an cake"
+      ],
+      "wrong_choices": [
+        "look at a/an cake",
+        "no interaction with a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000372067.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "surf a/an surfboard",
+        "lie on a/an surfboard",
+        "hold a/an surfboard"
+      ],
+      "wrong_choices": [
+        "sit on a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000372113.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut a/an cake",
+        "hold a/an knife",
+        "no interaction with a/an knife"
+      ],
+      "wrong_choices": [
+        "look at a/an cake"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "hold a/an knife"
+      ],
+      "wrong_choices": [
+        "look at a/an knife",
+        "hold a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000372258.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "throw a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000372654.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "no interaction with a/an cup",
+        "hold a/an spoon"
+      ],
+      "wrong_choices": [
+        "drink with a/an cup",
+        "lie on a/an chair"
+      ]
+    }
+  },
+  "COCO_val2014_000000372844.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "spin a/an frisbee",
+        "hug a/an person"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "throw a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000373713.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "greet a/an person",
+        "work on a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000374848.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an surfboard",
+        "hold a/an surfboard"
+      ],
+      "wrong_choices": [
+        "drag a/an surfboard",
+        "surf a/an surfboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "carry a/an surfboard",
+        "hold a/an surfboard"
+      ],
+      "wrong_choices": [
+        "inspect a/an surfboard",
+        "surf a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000375521.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an snowboard",
+        "look at a/an snowboard"
+      ],
+      "wrong_choices": [
+        "wear a/an snowboard",
+        "carry a/an snowboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000375810.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an book",
+        "look at a/an book",
+        "read a/an book"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an bench"
+      ]
+    }
+  },
+  "COCO_val2014_000000376545.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an skateboard",
+        "skateboard a/an skateboard"
+      ],
+      "wrong_choices": [
+        "flip a/an skateboard",
+        "grind a/an skateboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "flip a/an skateboard",
+        "skateboard a/an skateboard"
+      ],
+      "wrong_choices": [
+        "carry a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000376667.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an surfboard",
+        "hold a/an surfboard",
+        "look at a/an surfboard"
+      ],
+      "wrong_choices": [
+        "load a/an surfboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "wear a/an backpack",
+        "hold a/an cell phone"
+      ],
+      "wrong_choices": [
+        "look at a/an cell phone",
+        "carry a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000377352.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "look at a/an motorcycle",
+        "race a/an motorcycle"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an person",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "hop on a/an motorcycle",
+        "park a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000377809.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an motorcycle",
+        "ride a/an motorcycle",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "hop on a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000378467.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an suitcase",
+        "carry a/an suitcase",
+        "carry a/an handbag"
+      ],
+      "wrong_choices": [
+        "hold a/an handbag"
+      ]
+    }
+  },
+  "COCO_val2014_000000382125.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an pizza",
+        "sit on a/an chair"
+      ],
+      "wrong_choices": [
+        "pick up a/an pizza",
+        "look at a/an pizza"
+      ]
+    }
+  },
+  "COCO_val2014_000000385438.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "throw a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "hold a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000385918.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "throw a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000388085.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an umbrella",
+        "stand under a/an umbrella",
+        "hold a/an handbag"
+      ],
+      "wrong_choices": [
+        "look at a/an umbrella"
+      ]
+    }
+  },
+  "COCO_val2014_000000388486.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an frisbee",
+        "throw a/an frisbee"
+      ],
+      "wrong_choices": [
+        "catch a/an frisbee",
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000390130.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "hold a/an skis",
+        "ride a/an skis",
+        "look at a/an skis"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000390147.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "spin a/an frisbee",
+        "no interaction with a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000390475.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an tennis racket",
+        "hit with a/an tennis racket",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "inspect a/an sports ball"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hit a/an sports ball",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "catch a/an sports ball",
+        "serve a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000390704.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an snowboard",
+        "hold a/an snowboard",
+        "ride a/an snowboard",
+        "stand on a/an snowboard"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "snowboard a/an snowboard",
+        "jump on a/an snowboard"
+      ],
+      "wrong_choices": [
+        "grind a/an snowboard",
+        "adjust a/an snowboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000391179.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit a/an sports ball",
+        "hold a/an tennis racket",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "pick up a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000391596.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an book",
+        "ride a/an boat",
+        "look at a/an book"
+      ],
+      "wrong_choices": [
+        "stand under a/an umbrella"
+      ]
+    }
+  },
+  "COCO_val2014_000000391688.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "grind a/an skateboard",
+        "skateboard a/an skateboard"
+      ],
+      "wrong_choices": [
+        "flip a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000392382.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "ride a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "hold a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000394535.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "load a/an bus",
+        "board a/an bus",
+        "wear a/an backpack"
+      ],
+      "wrong_choices": [
+        "exit a/an bus"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "board a/an bus",
+        "hold a/an surfboard",
+        "wear a/an backpack"
+      ],
+      "wrong_choices": [
+        "carry a/an handbag"
+      ]
+    },
+    "QA_2": {
+      "gt_choices": [
+        "exit a/an bus",
+        "carry a/an handbag",
+        "ride a/an bus"
+      ],
+      "wrong_choices": [
+        "board a/an bus"
+      ]
+    }
+  },
+  "COCO_val2014_000000395291.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit a/an sports ball",
+        "hit with a/an baseball bat"
+      ],
+      "wrong_choices": [
+        "throw a/an sports ball",
+        "pick up a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000395621.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an cell phone",
+        "carry a/an cup"
+      ],
+      "wrong_choices": [
+        "eat a/an broccoli",
+        "look at a/an cup"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an cup",
+        "look at a/an bowl"
+      ],
+      "wrong_choices": [
+        "fill a/an cup",
+        "hold a/an bowl"
+      ]
+    }
+  },
+  "COCO_val2014_000000398722.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop",
+        "open a/an laptop"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "read a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000398803.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an tennis racket",
+        "look at a/an sports ball",
+        "hit with a/an tennis racket"
+      ],
+      "wrong_choices": [
+        "serve a/an sports ball"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hit with a/an tennis racket",
+        "hit a/an sports ball",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "serve a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000399415.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "hold a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee",
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000402077.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an couch",
+        "hold a/an carrot",
+        "eat a/an carrot"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an couch"
+      ]
+    }
+  },
+  "COCO_val2014_000000402328.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "hold a/an motorcycle",
+        "look at a/an person",
+        "park a/an motorcycle"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "park a/an motorcycle",
+        "straddle a/an motorcycle",
+        "hold a/an motorcycle",
+        "ride a/an motorcycle"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000402499.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an frisbee",
+        "throw a/an frisbee"
+      ],
+      "wrong_choices": [
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000404607.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an frisbee",
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "look at a/an frisbee",
+        "block a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000407903.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "surf a/an surfboard",
+        "look at a/an surfboard",
+        "stand on a/an surfboard"
+      ],
+      "wrong_choices": [
+        "lie on a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000408208.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "jump on a/an skis",
+        "ski on a/an skis",
+        "hold a/an skis"
+      ],
+      "wrong_choices": [
+        "stand on a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000410614.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "jump on a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "carry a/an skateboard",
+        "jump on a/an skateboard"
+      ]
+    },
+    "QA_2": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "jump on a/an skateboard",
+        "hold a/an skateboard"
+      ]
+    },
+    "QA_3": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "skateboard a/an skateboard",
+        "ride a/an skateboard"
+      ],
+      "wrong_choices": [
+        "hold a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000412419.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an baseball bat",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "block a/an sports ball",
+        "throw a/an baseball bat"
+      ]
+    }
+  },
+  "COCO_val2014_000000413666.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "jump on a/an skateboard"
+      ],
+      "wrong_choices": [
+        "flip a/an skateboard",
+        "grind a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000414201.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "wield a/an knife",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "make a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000414673.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "wield a/an baseball bat",
+        "swing a/an baseball bat",
+        "hold a/an baseball bat",
+        "hit with a/an baseball bat"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000416059.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an skis",
+        "ski on a/an skis",
+        "look at a/an dog"
+      ],
+      "wrong_choices": [
+        "walk a/an dog"
+      ]
+    }
+  },
+  "COCO_val2014_000000417547.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit a/an sports ball",
+        "hit with a/an baseball bat",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "throw a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000417965.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "inspect a/an surfboard",
+        "look at a/an surfboard",
+        "hold a/an surfboard"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000419158.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an cell phone",
+        "talk on a/an cell phone",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "text on a/an cell phone"
+      ]
+    }
+  },
+  "COCO_val2014_000000419408.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "skateboard a/an skateboard",
+        "sit on a/an bench"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000420090.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "ride a/an horse",
+        "hold a/an horse"
+      ],
+      "wrong_choices": [
+        "race a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000420525.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an wine glass",
+        "toast a/an wine glass"
+      ],
+      "wrong_choices": [
+        "wash a/an wine glass",
+        "fill a/an wine glass"
+      ]
+    }
+  },
+  "COCO_val2014_000000421833.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "throw a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "catch a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000421955.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an knife",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "stick a/an knife",
+        "pick up a/an cake"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an knife",
+        "cut with a/an knife",
+        "hold a/an person"
+      ],
+      "wrong_choices": [
+        "stick a/an knife"
+      ]
+    }
+  },
+  "COCO_val2014_000000422833.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an person",
+        "sit on a/an chair",
+        "work on a/an laptop"
+      ],
+      "wrong_choices": [
+        "look at a/an person"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "work on a/an laptop"
+      ],
+      "wrong_choices": [
+        "carry a/an laptop",
+        "type on a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000424162.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an bicycle",
+        "look at a/an dog",
+        "hold a/an dog"
+      ],
+      "wrong_choices": [
+        "hop on a/an bicycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000424247.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "eat at a/an dining table",
+        "look at a/an dining table"
+      ],
+      "wrong_choices": [
+        "drink with a/an cup"
+      ]
+    }
+  },
+  "COCO_val2014_000000424464.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "walk a/an bicycle",
+        "ride a/an bicycle"
+      ],
+      "wrong_choices": [
+        "jump a/an bicycle",
+        "hold a/an bicycle"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "ride a/an bicycle",
+        "hold a/an bicycle"
+      ],
+      "wrong_choices": [
+        "hop on a/an bicycle",
+        "no interaction with a/an bicycle"
+      ]
+    },
+    "QA_2": {
+      "gt_choices": [
+        "ride a/an bicycle",
+        "straddle a/an bicycle",
+        "hold a/an bicycle"
+      ],
+      "wrong_choices": [
+        "hop on a/an bicycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000425906.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "snowboard a/an snowboard",
+        "hold a/an snowboard",
+        "jump on a/an snowboard",
+        "look at a/an snowboard"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000426523.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit with a/an baseball bat",
+        "wield a/an baseball bat",
+        "look at a/an baseball bat"
+      ],
+      "wrong_choices": [
+        "look at a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000427655.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an horse"
+      ],
+      "wrong_choices": [
+        "straddle a/an horse",
+        "sit on a/an horse",
+        "walk a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000428263.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee",
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000428366.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "throw a/an frisbee",
+        "look at a/an dog"
+      ],
+      "wrong_choices": [
+        "chase a/an dog",
+        "run a/an dog"
+      ]
+    }
+  },
+  "COCO_val2014_000000429033.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "read a/an laptop",
+        "hold a/an laptop"
+      ],
+      "wrong_choices": [
+        "open a/an laptop"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "look at a/an laptop",
+        "read a/an laptop",
+        "sit on a/an chair"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000430302.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an surfboard",
+        "lie on a/an surfboard",
+        "surf a/an surfboard"
+      ],
+      "wrong_choices": [
+        "sit on a/an surfboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an person",
+        "look at a/an person",
+        "surf a/an surfboard"
+      ],
+      "wrong_choices": [
+        "carry a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000430750.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an backpack",
+        "board a/an airplane",
+        "look at a/an airplane"
+      ],
+      "wrong_choices": [
+        "sit on a/an airplane"
+      ]
+    }
+  },
+  "COCO_val2014_000000431136.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an frisbee",
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "carry a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000432623.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "push a/an motorcycle",
+        "hop on a/an motorcycle"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an bicycle",
+        "ride a/an bicycle"
+      ],
+      "wrong_choices": [
+        "push a/an bicycle",
+        "sit on a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000433103.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "work on a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "hold a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000434509.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "ride a/an horse",
+        "straddle a/an horse",
+        "hold a/an horse"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000435519.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "race a/an motorcycle",
+        "straddle a/an motorcycle",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000436456.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an airplane",
+        "carry a/an backpack"
+      ],
+      "wrong_choices": [
+        "wear a/an backpack",
+        "direct a/an airplane"
+      ]
+    }
+  },
+  "COCO_val2014_000000436555.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an handbag",
+        "hold a/an umbrella",
+        "stand under a/an umbrella"
+      ],
+      "wrong_choices": [
+        "look at a/an umbrella"
+      ]
+    }
+  },
+  "COCO_val2014_000000436636.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an surfboard",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "lie on a/an surfboard",
+        "carry a/an surfboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "surf a/an surfboard",
+        "look at a/an surfboard"
+      ],
+      "wrong_choices": [
+        "lie on a/an surfboard",
+        "carry a/an surfboard"
+      ]
+    },
+    "QA_2": {
+      "gt_choices": [
+        "surf a/an surfboard",
+        "lie on a/an surfboard"
+      ],
+      "wrong_choices": [
+        "stand on a/an surfboard",
+        "sit on a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000437373.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an umbrella",
+        "carry a/an umbrella"
+      ],
+      "wrong_choices": [
+        "set a/an umbrella",
+        "open a/an umbrella"
+      ]
+    }
+  },
+  "COCO_val2014_000000439180.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "hold a/an horse"
+      ],
+      "wrong_choices": [
+        "look at a/an horse",
+        "pet a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000439410.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an tennis racket",
+        "swing a/an tennis racket",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "serve a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000439868.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "jump on a/an skateboard"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard",
+        "flip a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000440336.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "throw a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000442836.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an frisbee",
+        "throw a/an frisbee",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "look at a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000443602.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "eat a/an donut",
+        "hold a/an donut"
+      ],
+      "wrong_choices": [
+        "smell a/an donut",
+        "look at a/an donut"
+      ]
+    }
+  },
+  "COCO_val2014_000000443688.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut a/an cake",
+        "cut with a/an knife"
+      ],
+      "wrong_choices": [
+        "hold a/an cake",
+        "look at a/an knife"
+      ]
+    }
+  },
+  "COCO_val2014_000000444804.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "throw a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "hold a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000447611.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut a/an laptop",
+        "hold a/an knife",
+        "repair a/an laptop",
+        "cut with a/an knife"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000448535.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an cake",
+        "cut a/an cake",
+        "hold a/an chair"
+      ],
+      "wrong_choices": [
+        "sit on a/an chair"
+      ]
+    }
+  },
+  "COCO_val2014_000000448694.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "throw a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000449039.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "hold a/an horse",
+        "straddle a/an horse"
+      ],
+      "wrong_choices": [
+        "race a/an horse"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "ride a/an horse",
+        "sit on a/an horse"
+      ],
+      "wrong_choices": [
+        "hop on a/an horse",
+        "train a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000450970.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an suitcase",
+        "carry a/an backpack"
+      ],
+      "wrong_choices": [
+        "carry a/an suitcase",
+        "load a/an suitcase"
+      ]
+    }
+  },
+  "COCO_val2014_000000452866.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "hold a/an knife",
+        "hold a/an person",
+        "look at a/an cake"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an knife",
+        "look at a/an knife"
+      ],
+      "wrong_choices": [
+        "hold a/an cake",
+        "eat a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000455005.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "wield a/an baseball bat",
+        "hit with a/an baseball bat",
+        "hold a/an baseball bat",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000455675.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an bicycle",
+        "hold a/an bicycle",
+        "carry a/an backpack",
+        "carry a/an surfboard"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000455735.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "drink with a/an wine glass",
+        "hold a/an wine glass",
+        "sit on a/an chair",
+        "look at a/an person"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000456521.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "skateboard a/an skateboard"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard",
+        "flip a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000459721.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut a/an cake",
+        "hold a/an knife",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "hold a/an cake"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "hug a/an person",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "stick a/an knife"
+      ]
+    }
+  },
+  "COCO_val2014_000000462466.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "light a/an cake",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "blow a/an cake",
+        "cut a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000464359.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "grind a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "flip a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000464515.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "hop on a/an motorcycle",
+        "turn a/an motorcycle"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "hold a/an person"
+      ],
+      "wrong_choices": [
+        "look at a/an person",
+        "turn a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000464719.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an person",
+        "lie on a/an surfboard",
+        "surf a/an surfboard"
+      ],
+      "wrong_choices": [
+        "sit on a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000465404.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "work on a/an laptop",
+        "read a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000466456.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "hold a/an knife",
+        "look at a/an cake",
+        "hold a/an person"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "cut a/an cake",
+        "cut with a/an knife",
+        "hold a/an knife",
+        "wield a/an knife"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000466766.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an handbag",
+        "carry a/an handbag",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "look at a/an handbag"
+      ]
+    }
+  },
+  "COCO_val2014_000000466818.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "read a/an laptop",
+        "hold a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000466840.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an baseball bat",
+        "look at a/an sports ball",
+        "hit a/an sports ball"
+      ],
+      "wrong_choices": [
+        "throw a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000468063.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "hold a/an horse",
+        "straddle a/an horse"
+      ],
+      "wrong_choices": [
+        "race a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000469061.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "hold a/an skis",
+        "hug a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000470779.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "hold a/an backpack"
+      ],
+      "wrong_choices": [
+        "adjust a/an skis",
+        "pick up a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000471117.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit with a/an tennis racket",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "serve a/an sports ball",
+        "carry a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000471154.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an cell phone",
+        "talk on a/an cell phone",
+        "ride a/an car"
+      ],
+      "wrong_choices": [
+        "direct a/an car"
+      ]
+    }
+  },
+  "COCO_val2014_000000473219.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an book",
+        "look at a/an book",
+        "read a/an book",
+        "hold a/an person"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000475043.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an bottle"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop",
+        "look at a/an laptop",
+        "work on a/an laptop"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "look at a/an laptop",
+        "read a/an laptop",
+        "hold a/an laptop"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000478977.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "look at a/an person",
+        "walk a/an dog"
+      ],
+      "wrong_choices": [
+        "look at a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000479126.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "work on a/an laptop"
+      ],
+      "wrong_choices": [
+        "look at a/an laptop",
+        "read a/an laptop",
+        "type on a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000479350.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "eat with a/an spoon"
+      ],
+      "wrong_choices": [
+        "lift a/an spoon",
+        "lick a/an spoon",
+        "hold a/an cake"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "eat a/an cake",
+        "hold a/an spoon"
+      ],
+      "wrong_choices": [
+        "lick a/an spoon",
+        "look at a/an cake"
+      ]
+    },
+    "QA_2": {
+      "gt_choices": [
+        "eat a/an cake",
+        "eat with a/an fork",
+        "look at a/an fork"
+      ],
+      "wrong_choices": [
+        "lick a/an fork"
+      ]
+    }
+  },
+  "COCO_val2014_000000479466.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an tennis racket",
+        "hit a/an sports ball",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "throw a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000480624.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an bowl",
+        "eat with a/an spoon"
+      ],
+      "wrong_choices": [
+        "hold a/an bowl",
+        "lick a/an spoon"
+      ]
+    }
+  },
+  "COCO_val2014_000000481010.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an tennis racket",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "dribble a/an sports ball",
+        "inspect a/an tennis racket"
+      ]
+    }
+  },
+  "COCO_val2014_000000482275.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut with a/an knife",
+        "look at a/an cake",
+        "hold a/an person"
+      ],
+      "wrong_choices": [
+        "look at a/an person"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an knife",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "hold a/an cake",
+        "light a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000482539.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "surf a/an surfboard",
+        "stand on a/an surfboard",
+        "jump on a/an surfboard"
+      ],
+      "wrong_choices": [
+        "hold a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000482690.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "skateboard a/an skateboard"
+      ],
+      "wrong_choices": [
+        "carry a/an skateboard",
+        "grind a/an skateboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "skateboard a/an skateboard"
+      ],
+      "wrong_choices": [
+        "hold a/an skateboard",
+        "ride a/an skateboard",
+        "carry a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000486803.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "snowboard a/an snowboard",
+        "hold a/an snowboard",
+        "jump on a/an snowboard"
+      ],
+      "wrong_choices": [
+        "carry a/an snowboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000487943.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an skateboard",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "jump on a/an skateboard",
+        "grind a/an skateboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "skateboard a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000488755.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "carry a/an backpack",
+        "wear a/an skis",
+        "ride a/an skis"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "hold a/an backpack",
+        "wear a/an skis",
+        "ride a/an skis"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000490939.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop",
+        "hold a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000492282.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an horse",
+        "sit on a/an horse",
+        "hold a/an horse",
+        "straddle a/an horse"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "straddle a/an horse",
+        "ride a/an horse"
+      ],
+      "wrong_choices": [
+        "jump a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000492395.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "look at a/an person",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "greet a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000492840.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an baseball bat",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "kick a/an sports ball",
+        "catch a/an sports ball"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "catch a/an sports ball",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "hold a/an sports ball",
+        "hit a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000493509.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an laptop",
+        "work on a/an laptop"
+      ],
+      "wrong_choices": [
+        "look at a/an laptop",
+        "open a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000493641.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an horse",
+        "hold a/an horse",
+        "straddle a/an horse"
+      ],
+      "wrong_choices": [
+        "run a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000494855.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit a/an sports ball",
+        "hit with a/an baseball bat",
+        "look at a/an sports ball",
+        "wear a/an baseball glove"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000496575.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an skis",
+        "ski on a/an skis",
+        "look at a/an skis",
+        "ride a/an skis"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000497969.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "park a/an motorcycle",
+        "carry a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000499242.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an mouse",
+        "look at a/an tv",
+        "control a/an mouse",
+        "work on a/an laptop"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000501491.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut a/an cake",
+        "hold a/an knife",
+        "eat with a/an knife",
+        "eat a/an cake"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000501527.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an surfboard",
+        "hold a/an surfboard"
+      ],
+      "wrong_choices": [
+        "drag a/an surfboard",
+        "look at a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000501824.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "drag a/an suitcase",
+        "carry a/an backpack",
+        "hold a/an suitcase",
+        "hold a/an handbag"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000501982.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit with a/an tennis racket",
+        "hit a/an sports ball",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "throw a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000505223.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an sports ball",
+        "hit a/an sports ball"
+      ],
+      "wrong_choices": [
+        "dribble a/an sports ball",
+        "serve a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000505650.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an horse",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "hit a/an sports ball",
+        "look at a/an horse"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an sports ball",
+        "sit on a/an horse",
+        "hit a/an sports ball",
+        "hold a/an horse"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000507782.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an laptop",
+        "work on a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop",
+        "open a/an laptop"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an laptop",
+        "work on a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop",
+        "no interaction with a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000508538.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an skateboard",
+        "skateboard a/an skateboard",
+        "ride a/an skateboard"
+      ],
+      "wrong_choices": [
+        "carry a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000510827.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an person",
+        "no interaction with a/an wine glass",
+        "sit on a/an chair"
+      ],
+      "wrong_choices": [
+        "lick a/an person"
+      ]
+    }
+  },
+  "COCO_val2014_000000513389.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit with a/an tennis racket",
+        "hold a/an tennis racket",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an tennis racket"
+      ]
+    }
+  },
+  "COCO_val2014_000000514147.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an baseball bat",
+        "hit with a/an baseball bat"
+      ],
+      "wrong_choices": [
+        "carry a/an baseball bat",
+        "no interaction with a/an baseball bat"
+      ]
+    }
+  },
+  "COCO_val2014_000000516865.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "look at a/an skis",
+        "wear a/an skis"
+      ],
+      "wrong_choices": [
+        "jump on a/an skis"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "jump on a/an skis"
+      ],
+      "wrong_choices": [
+        "inspect a/an skis",
+        "pick up a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000516893.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an sports ball",
+        "kick a/an sports ball",
+        "block a/an sports ball"
+      ],
+      "wrong_choices": [
+        "hit a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000517056.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut a/an cake",
+        "hold a/an knife"
+      ],
+      "wrong_choices": [
+        "look at a/an cake",
+        "stick a/an knife"
+      ]
+    }
+  },
+  "COCO_val2014_000000517938.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit with a/an baseball bat",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "break a/an baseball bat",
+        "dribble a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000518224.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an baseball bat",
+        "break a/an baseball bat",
+        "hit with a/an baseball bat"
+      ],
+      "wrong_choices": [
+        "throw a/an baseball bat"
+      ]
+    }
+  },
+  "COCO_val2014_000000519193.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an cell phone",
+        "look at a/an tv"
+      ],
+      "wrong_choices": [
+        "control a/an tv",
+        "text on a/an cell phone"
+      ]
+    }
+  },
+  "COCO_val2014_000000520752.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an baseball bat",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "carry a/an baseball bat",
+        "kick a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000523637.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an couch",
+        "look at a/an book",
+        "hold a/an cell phone",
+        "hold a/an book"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000524064.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "hold a/an horse"
+      ],
+      "wrong_choices": [
+        "race a/an horse",
+        "train a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000524173.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "lie on a/an surfboard",
+        "look at a/an surfboard"
+      ],
+      "wrong_choices": [
+        "sit on a/an surfboard",
+        "inspect a/an surfboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000525373.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "eat a/an donut",
+        "hold a/an donut"
+      ],
+      "wrong_choices": [
+        "pick up a/an donut",
+        "smell a/an donut"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "eat a/an donut",
+        "hold a/an donut"
+      ],
+      "wrong_choices": [
+        "smell a/an donut",
+        "look at a/an donut"
+      ]
+    }
+  },
+  "COCO_val2014_000000528458.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "ride a/an horse",
+        "hold a/an horse",
+        "run a/an horse"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "run a/an horse",
+        "sit on a/an horse",
+        "hold a/an horse"
+      ],
+      "wrong_choices": [
+        "hop on a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000528714.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit with a/an tennis racket",
+        "hit a/an sports ball",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "throw a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000528821.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "eat a/an pizza",
+        "pick up a/an pizza",
+        "hold a/an pizza"
+      ],
+      "wrong_choices": [
+        "cut a/an pizza"
+      ]
+    }
+  },
+  "COCO_val2014_000000528905.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "hold a/an frisbee",
+        "throw a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000529592.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an frisbee",
+        "spin a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee",
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000530520.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "read a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop",
+        "open a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000530987.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an elephant",
+        "ride a/an elephant",
+        "hold a/an elephant",
+        "walk a/an elephant"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "ride a/an elephant",
+        "hold a/an elephant",
+        "sit on a/an elephant"
+      ],
+      "wrong_choices": [
+        "hop on a/an elephant"
+      ]
+    }
+  },
+  "COCO_val2014_000000532216.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit a/an sports ball",
+        "hit with a/an tennis racket"
+      ],
+      "wrong_choices": [
+        "catch a/an sports ball",
+        "pick up a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000534428.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an handbag",
+        "carry a/an handbag",
+        "stand under a/an umbrella",
+        "carry a/an umbrella"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000534784.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an bicycle",
+        "hold a/an bicycle",
+        "carry a/an handbag",
+        "sit on a/an bicycle"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000534827.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "straddle a/an motorcycle",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "hop on a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000534915.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "throw a/an frisbee",
+        "catch a/an frisbee",
+        "hold a/an frisbee"
+      ],
+      "wrong_choices": [
+        "look at a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000535668.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit a/an sports ball",
+        "swing a/an baseball bat",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "block a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000536428.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "carry a/an frisbee",
+        "look at a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000536933.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an skis",
+        "hold a/an skis",
+        "stand on a/an skis"
+      ],
+      "wrong_choices": [
+        "adjust a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000538005.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "skateboard a/an skateboard"
+      ],
+      "wrong_choices": [
+        "flip a/an skateboard",
+        "grind a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000538230.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an motorcycle",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "jump a/an motorcycle",
+        "turn a/an motorcycle"
+      ]
+    },
+    "QA_2": {
+      "gt_choices": [
+        "sit on a/an motorcycle",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "jump a/an motorcycle",
+        "hop on a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000538319.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "hold a/an person",
+        "look at a/an person"
+      ],
+      "wrong_choices": [
+        "adjust a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000538458.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an skateboard",
+        "skateboard a/an skateboard",
+        "jump a/an skateboard"
+      ],
+      "wrong_choices": [
+        "hold a/an skateboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "jump on a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000538741.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an skis",
+        "ski on a/an skis"
+      ],
+      "wrong_choices": [
+        "carry a/an skis",
+        "jump a/an skis"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "adjust a/an skis",
+        "ski on a/an skis"
+      ],
+      "wrong_choices": [
+        "pick up a/an skis",
+        "jump on a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000539793.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "look at a/an skateboard",
+        "jump on a/an skateboard"
+      ],
+      "wrong_choices": [
+        "hold a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000540740.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "jump on a/an skateboard",
+        "look at a/an skateboard",
+        "skateboard a/an skateboard",
+        "hold a/an skateboard"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000540806.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an motorcycle",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "hop on a/an motorcycle",
+        "race a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000541687.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "look at a/an laptop",
+        "no interaction with a/an cell phone",
+        "text on a/an cell phone"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000542127.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "jump on a/an skis",
+        "hold a/an skis"
+      ],
+      "wrong_choices": [
+        "stand on a/an skis"
+      ]
+    }
+  },
+  "COCO_val2014_000000543570.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit a/an sports ball",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "carry a/an baseball bat",
+        "break a/an baseball bat"
+      ]
+    }
+  },
+  "COCO_val2014_000000545978.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an motorcycle",
+        "race a/an motorcycle",
+        "hold a/an motorcycle"
+      ],
+      "wrong_choices": [
+        "turn a/an motorcycle"
+      ]
+    }
+  },
+  "COCO_val2014_000000546067.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an elephant",
+        "sit on a/an elephant"
+      ],
+      "wrong_choices": [
+        "watch a/an elephant",
+        "hop on a/an elephant"
+      ]
+    }
+  },
+  "COCO_val2014_000000547866.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "throw a/an frisbee"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "block a/an frisbee",
+        "throw a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000547886.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an horse",
+        "look at a/an horse"
+      ],
+      "wrong_choices": [
+        "race a/an horse",
+        "run a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000548288.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an knife",
+        "look at a/an cake"
+      ],
+      "wrong_choices": [
+        "pick up a/an cake",
+        "hold a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000548420.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ride a/an elephant",
+        "hold a/an elephant"
+      ],
+      "wrong_choices": [
+        "watch a/an elephant",
+        "hop on a/an elephant"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "sit on a/an elephant",
+        "ride a/an elephant"
+      ],
+      "wrong_choices": [
+        "hop on a/an elephant",
+        "walk a/an elephant"
+      ]
+    }
+  },
+  "COCO_val2014_000000550576.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "catch a/an frisbee",
+        "look at a/an frisbee"
+      ],
+      "wrong_choices": [
+        "no interaction with a/an frisbee",
+        "block a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000550707.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "cut a/an cake",
+        "hold a/an knife"
+      ],
+      "wrong_choices": [
+        "carry a/an couch",
+        "make a/an cake"
+      ]
+    }
+  },
+  "COCO_val2014_000000555144.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an remote",
+        "control a/an tv",
+        "watch a/an tv"
+      ],
+      "wrong_choices": [
+        "look at a/an remote"
+      ]
+    }
+  },
+  "COCO_val2014_000000557709.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an baseball bat",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "kick a/an sports ball",
+        "catch a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000558633.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an fork",
+        "sit on a/an chair",
+        "eat with a/an fork"
+      ],
+      "wrong_choices": [
+        "lift a/an fork"
+      ]
+    }
+  },
+  "COCO_val2014_000000563271.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an skateboard",
+        "look at a/an person",
+        "jump a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "jump on a/an skateboard",
+        "look at a/an skateboard"
+      ],
+      "wrong_choices": [
+        "hold a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000563648.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an skateboard",
+        "skateboard a/an skateboard",
+        "jump on a/an skateboard"
+      ],
+      "wrong_choices": [
+        "flip a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000567740.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "ski on a/an skis",
+        "wear a/an skis",
+        "ride a/an skis",
+        "hold a/an skis"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000569274.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an pizza",
+        "eat a/an pizza",
+        "eat with a/an knife",
+        "sit on a/an chair"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000569526.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hit with a/an baseball bat",
+        "hold a/an baseball bat",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "block a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000572081.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "hit a/an sports ball",
+        "look at a/an sports ball"
+      ],
+      "wrong_choices": [
+        "carry a/an sports ball"
+      ]
+    }
+  },
+  "COCO_val2014_000000572620.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "skateboard a/an skateboard",
+        "jump on a/an skateboard"
+      ],
+      "wrong_choices": [
+        "grind a/an skateboard",
+        "hold a/an skateboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000574069.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an knife",
+        "sit on a/an chair",
+        "eat with a/an knife",
+        "look at a/an bowl"
+      ],
+      "wrong_choices": []
+    },
+    "QA_1": {
+      "gt_choices": [
+        "look at a/an laptop",
+        "read a/an laptop",
+        "work on a/an laptop"
+      ],
+      "wrong_choices": [
+        "repair a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000574178.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "carry a/an snowboard",
+        "hold a/an snowboard"
+      ],
+      "wrong_choices": [
+        "wear a/an snowboard",
+        "stand on a/an snowboard"
+      ]
+    },
+    "QA_1": {
+      "gt_choices": [
+        "hold a/an snowboard",
+        "carry a/an snowboard"
+      ],
+      "wrong_choices": [
+        "wear a/an snowboard",
+        "stand on a/an snowboard"
+      ]
+    }
+  },
+  "COCO_val2014_000000574424.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an chair",
+        "type on a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": [
+        "carry a/an chair"
+      ]
+    }
+  },
+  "COCO_val2014_000000574675.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "look at a/an laptop",
+        "hold a/an laptop",
+        "work on a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop"
+      ]
+    }
+  },
+  "COCO_val2014_000000576085.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an skateboard",
+        "look at a/an skateboard",
+        "skateboard a/an skateboard",
+        "stand on a/an skateboard"
+      ],
+      "wrong_choices": []
+    }
+  },
+  "COCO_val2014_000000577219.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an horse",
+        "ride a/an horse"
+      ],
+      "wrong_choices": [
+        "pet a/an horse",
+        "run a/an horse"
+      ]
+    }
+  },
+  "COCO_val2014_000000577373.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "hold a/an frisbee",
+        "catch a/an frisbee"
+      ],
+      "wrong_choices": [
+        "throw a/an frisbee",
+        "carry a/an frisbee"
+      ]
+    }
+  },
+  "COCO_val2014_000000577614.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "work on a/an laptop",
+        "look at a/an laptop"
+      ],
+      "wrong_choices": [
+        "type on a/an laptop",
+        "hold a/an backpack"
+      ]
+    }
+  },
+  "COCO_val2014_000000581401.jpg": {
+    "QA_0": {
+      "gt_choices": [
+        "sit on a/an bicycle",
+        "ride a/an bicycle"
+      ],
+      "wrong_choices": [
+        "hop on a/an bicycle",
+        "jump a/an bicycle"
+      ]
+    }
+  }
+}
