@@ -66,5 +66,5 @@ year={2026}
 ```
 
 ## Acknowledgement
-We gratefully thank the authors from [UPT](https://github.com/fredzzhang/upt) and [ADA-CM](https://github.com/ltttpku/ADA-CM/tree/main) for open-sourcing their code.
+We gratefully thank the authors from [UPT](https://github.com/fredzzhang/upt), [ADA-CM](https://github.com/ltttpku/ADA-CM/tree/main),[CMMP](https://github.com/ltttpku/CMMP), [LAIN](https://github.com/OreoChocolate/LAIN), [HOLa](https://github.com/ChelsieLei/HOLa), [Qwen](https://huggingface.co/models?search=Qwen/Qwen) and [InternVL](https://huggingface.co/collections/OpenGVLab/internvl3) for open-sourcing their code.
 
