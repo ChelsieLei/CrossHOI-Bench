@@ -31,9 +31,11 @@ The downloaded files should be placed as follows. Otherwise, please replace the 
 2. Follow the environment setup in [InternVL](https://huggingface.co/collections/OpenGVLab/internvl3).
 
 ## Our Benchmark New Annotations
-HICO-DET-based main benchmark annotation is included in "hicodet" folder. "hicodet/our_test" includes the test dataset annotation for evaluation.
-V-COCO-based sub-benchmark annotation is included in "vcoco" folder. "vcoco/our_test" includes the test dataset annotation for evaluation.
-SWiG-HOI-based sub-benchmark annotation is included in "swighoi" folder. "swighoi/our_test" includes the test dataset annotation for evaluation.
+HICO-DET-based main evaluation annotation is included in "hicodet" folder.
+
+V-COCO-based sub-benchmark evaluation annotation is included in "vcoco" folder. 
+
+SWiG-HOI-based sub-benchmark evaluation annotation is included in "swighoi" folder.
 
 ## HOI-specific methods predictions
 We provide 5 HOI-specific methods' predictions [here](https://huggingface.co/chelsielei/CrossHOI_Bench/tree/main/HOI_pred_hicodet) (ADA-CM, CMMP, CMD-SE, LAIN, HOLa).
