@@ -2,7 +2,7 @@
 
 ## Paper Links
 
-[arXiv](https://arxiv.org/) to be updated
+[arXiv version](https://arxiv.org/abs/2508.18753)
 
 ## Dataset 
 Download dataset images: [HICO-DET](https://huggingface.co/datasets/zhimeng/hico_det), [V-COCO](https://github.com/fredzzhang/vcoco/tree/cb13e3d3cd74158b41acee09979e25e875c02053), and [SWiG-HOI](https://github.com/scwangdyd/large_vocabulary_hoi_detection)
