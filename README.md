@@ -45,7 +45,14 @@ Our HICO-DET-based training dataset annotation is provided [here](https://huggin
 
 ### Corrected specialist evaluation
 
-We identified and corrected four inconsistencies in the original specialist evaluation: `no_interaction` label formatting is now normalized; top-5 ranking for target-specific questions is computed over target-matched candidates; final answers are deduplicated as label sets; and benchmark images absent from a prediction file are evaluated as empty answers. The last rule is relevant to the released CMD-SE file, which contains predictions for 1,182 of the 1,274 main-benchmark images.
+We identified and corrected four inconsistencies in the original specialist evaluation:
+
+- `no_interaction` label formatting is normalized.
+- Top-5 ranking for target-specific questions is computed over target-matched candidates.
+- Final answers are deduplicated as label sets.
+- Benchmark images absent from a prediction file are evaluated as empty answers.
+
+The released pretrained CMD-SE checkpoint does not provide native `no_interaction` predictions. Its released prediction file covers 1,182 of the 1,274 main-benchmark images. The 92 absent images are therefore evaluated as empty predictions rather than omitted from the evaluation.
 
 The corrected results (%) for Setting 1 are:
 
