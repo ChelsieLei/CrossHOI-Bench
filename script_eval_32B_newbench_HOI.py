@@ -19,6 +19,11 @@ import gc
 from torchvision.ops import batched_nms
 from newbench_question_func import mllm_instancef1_eval, mllm_macrof1_eval, match_gtbox
 
+
+def normalize_hoi_label(label):
+    """Return the canonical text representation used by benchmark choices."""
+    return label.replace("no_interaction a/an ", "no_interaction with a/an ")
+
 def format_bbox(bbox):
     """
     Format a bounding box list such that each number is represented with 2 decimal places.
@@ -165,33 +170,39 @@ def main(args):
 
     fcnt = 0
     newbench_output_dict = {}
-    for file in output_dict:
+    # Iterate over benchmark questions rather than prediction keys. A method may
+    # omit images for which it produced no prediction; those must still be
+    # evaluated as empty answers.
+    for file in hoi_det_question:
         fcnt += 1
         # if file != "HICO_test2015_00001379.jpg":
         #     continue
-        if file not in hoi_det_question:
-            continue
-        # if args.person_settings != "all" and file not in evaluation_files:
-        #     continue
         newbench_output_dict[file] = {}
 
-
-        response_process_list = output_dict[file]
+        response_process_list = output_dict.get(file)
         print("🔍 Processing file:", file)
 
-        
-        hboxes = torch.tensor(response_process_list["h_boxes"], dtype=torch.float32)
-        oboxes = torch.tensor(response_process_list["o_boxes"], dtype=torch.float32)
-        ho_scores = torch.tensor(response_process_list["ho_scores"], dtype=torch.float32)
-        obj_labels = [i.split(" a/an ")[-1] for i in response_process_list['ao_names']]
-
-        
         hoi_det_questioni = hoi_det_question[file]
         hoi_det_questioni_keys = [i for i in hoi_det_questioni]
         if "QA_0" not in hoi_det_questioni_keys:
             hoi_det_questioni_qa = {"QA_0": hoi_det_questioni}
         else:
             hoi_det_questioni_qa = hoi_det_questioni
+
+        if response_process_list is None:
+            newbench_output_dict[file] = {qli: [] for qli in hoi_det_questioni_qa}
+            f1_per_question, macro_f1_dict, all_ans_per_question, acc_top1, acc_fullmatch = mllm_instancef1_eval(hoi_det_questioni, newbench_output_dict[file], f1_per_question, macro_f1_dict, all_ans_per_question, file, acc_top1, acc_fullmatch)
+            continue
+
+        response_process_list['ao_names'] = [
+            normalize_hoi_label(label) for label in response_process_list['ao_names']
+        ]
+
+        hboxes = torch.tensor(response_process_list["h_boxes"], dtype=torch.float32)
+        oboxes = torch.tensor(response_process_list["o_boxes"], dtype=torch.float32)
+        ho_scores = torch.tensor(response_process_list["ho_scores"], dtype=torch.float32)
+        obj_labels = [i.split(" a/an ")[-1] for i in response_process_list['ao_names']]
+
         
         ### process the HOI prediction for this question
         for qli in hoi_det_questioni_qa:
@@ -232,13 +243,16 @@ def main(args):
                 scoresi = ho_scores
 
             if args.pred_select == 'question_rank':
-                max_rank_qi = min(int(args.pred_thres), len(ho_scores))
-                thres_calc = ho_scores.topk(max_rank_qi).values[-1]
+                max_rank_qi = min(int(args.pred_thres), len(scoresi))
+                if max_rank_qi == 0:
+                    continue
+                question_scores = scoresi if isinstance(scoresi, torch.Tensor) else torch.stack(scoresi)
+                thres_calc = question_scores.topk(max_rank_qi).values[-1]
             for idx_rpi, rpii in enumerate(predi):
                 if scoresi[idx_rpi] < thres_calc:
                     continue
-                # if rpii not in newbench_output_dict[file][qli]:
-                if rpii in (hoi_det_questioni_qa['QA_0']['gt_choices'] + hoi_det_questioni_qa['QA_0']['wrong_choices']):
+                if (rpii in (content_i['gt_choices'] + content_i['wrong_choices'])
+                        and rpii not in newbench_output_dict[file][qli]):
                     newbench_output_dict[file][qli].append(rpii)
 
         # import pdb

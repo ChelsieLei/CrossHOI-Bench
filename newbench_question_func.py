@@ -439,7 +439,9 @@ def mllm_instancef1_eval(hoi_det_questioni, response_process_list, f1_per_questi
                     macro_f1_dict[gtii]['gt'] = macro_f1_dict[gtii]['gt'] + 1
             continue
 
-        rpi = response_process_list[qli]
+        # Answers are label sets. Preserve the first occurrence for top-1 while
+        # preventing duplicate labels from changing F1 or exact match.
+        rpi = list(dict.fromkeys(response_process_list[qli]))
         
         ###### each gt interaction answer considers separately
         gt_pool = gti.copy()
@@ -617,5 +619,4 @@ def match_gtbox(sub_box, obj_box, obj_label, sub_box_gt, obj_box_gt, prompt_box_
         gt_box_match = gt_h_box_match & gt_o_box_match
 
     return gt_box_match, h_str_ho_det_box_i, o_str_ho_det_box_i
-
 
